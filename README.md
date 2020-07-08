@@ -1,7 +1,7 @@
 # Machine Learning Data Analysis with MatLab
 
 ### Description
-This repository is of the homework from my Machine Learning class at the University of Pittsburgh
+This repository is of the homework from my Machine Learning class at the University of Pittsburgh. Unfortunately, I do not have access to the data used in these homeworks anymore.
 
 ### Index
 Short description what what each homework entails:
